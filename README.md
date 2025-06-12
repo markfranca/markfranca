@@ -1,8 +1,8 @@
-<h1 align="center">Olá! 👋 Me chamo [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Me chamo [Marcus Vinicius de França]</h1>
 
 <p align="center">
   Estudante de Engenharia da Computação pela UPE 🧠💻<br>
-  Atualmente no 6º período e apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+  Atualmente no 6º período e apaixonado por tecnologia.
 </p>
 
 ---
@@ -18,7 +18,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
@@ -38,8 +37,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-frança-27b8a32a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusviniciusfrancaa@gmail.com)
 
 </div>
 
