@@ -62,5 +62,4 @@
 
 <p align="center">
   Obrigado por visitar meu perfil! 🚀<br>
-  <img src="https://visitcount.itsvg.in/api?id=markfranca&icon=0&color=12" alt="Contador de visitas">
 </p>
